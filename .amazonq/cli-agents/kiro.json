@@ -11,8 +11,7 @@
   "allowedTools": [],
   "resources": [
     "file://AGENTS.md",
-    "file://.kiro/spec.md",
-    "file://.kiro/task.md"
+    "file://.kiro/spec.md"
   ],
   "hooks": {},
   "toolsSettings": {},
